@@ -1,0 +1,55 @@
+@import "tailwindcss";
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 20px;
+}
+
+.fab {
+  position: fixed;
+  right: 35px;
+  bottom: 35px;
+
+  width: 70px;
+  height: 70px;
+
+  border-radius: 50%;
+  border: none;
+
+  font-size: 40px;
+  cursor: pointer;
+
+  background: #2563eb;
+  color: white;
+
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+
+  transition: 0.3s;
+}
+
+.fab:hover {
+  transform: scale(1.1);
+}
+
+.overlay {
+  position: fixed;
+  inset: 0;
+
+  background: rgba(0, 0, 0, 0.55);
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal {
+  width: 600px;
+  max-width: 90%;
+
+  background: #1e293b;
+
+  border-radius: 16px;
+
+  padding: 25px;
+}
