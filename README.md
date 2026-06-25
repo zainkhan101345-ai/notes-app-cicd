@@ -241,6 +241,6 @@ This project provided practical experience with:
 
 Zain Khan
 
-If you found this project useful, consider giving it a ⭐ on GitHub.
+If you found this project useful, consider giving it a star on GitHub.
 
 If you have any suggestions, feedback, or would like to discuss potential opportunities or collaborations, feel free to reach out at [zainkhan1980101@hotmail.com](mailto:zainkhan1980101@hotmail.com). I'd be happy to connect.
