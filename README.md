@@ -186,15 +186,23 @@ This allows developers to verify deployments without logging into the server.
 
 # Screenshots
 
- GitHub Repository
- GitHub Webhook
- Jenkins Dashboard
- Successful Jenkins Pipeline
- Docker Containers
- Mongo Express
- Running Notes Application
- Email Notification
- AWS EC2 Instance
+## GitHub Repository
+ <img width="1880" height="777" alt="image" src="https://github.com/user-attachments/assets/3babfc62-abb8-443c-8144-4a782dde32da" />
+
+## GitHub Webhook
+ <img width="1875" height="860" alt="image" src="https://github.com/user-attachments/assets/f9c8f6a3-d7b2-42aa-b875-9ecf5174392e" />
+ 
+## Successful Jenkins Pipeline
+ <img width="1580" height="817" alt="image" src="https://github.com/user-attachments/assets/34e70432-ec1a-435a-bce5-a60d0b9d4127" />
+ 
+## Running Notes Application
+ <img width="1659" height="864" alt="image" src="https://github.com/user-attachments/assets/abb4fbb6-c152-480f-b5d5-b8069899d421" />
+
+## Email Notification
+ <img width="1652" height="346" alt="image" src="https://github.com/user-attachments/assets/2cfec14d-cfc3-423a-b98d-cf9358945a75" />
+
+## AWS EC2 Instance
+<img width="1913" height="991" alt="image" src="https://github.com/user-attachments/assets/353be622-f254-4e7e-aa16-27cab7f84a1c" />
 
 
 # Verification
