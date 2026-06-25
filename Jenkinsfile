@@ -11,9 +11,10 @@ pipeline{
         }
           stage('Build docker images and run containers'){
             steps{
-                sh  '''
-                docker compose down
-                docker compose up --build
+                 sh '''
+                docker compose down || true
+                docker rm -f mongodb notes-client notes-server || true
+                docker compose up --build -d
                 '''
             }
         }
