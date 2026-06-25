@@ -26,8 +26,7 @@ Notifications      | Jenkins Email Extension
 
 
 
-# System Architecture
-
+```
 Developer
     │
     ▼
@@ -59,13 +58,14 @@ Jenkins Pipeline
                  Developer Receives
              ✔ Build Status
              ✔ Website URL
-
-                    │
-                    ▼
+                       │
+                       ▼
               AWS EC2 Instance
-                    │
-                    ▼
-             Running Notes App
+                       │
+                       ▼
+              Running Notes App
+```
+
 
 
 
