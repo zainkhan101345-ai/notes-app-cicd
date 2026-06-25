@@ -20,7 +20,7 @@ pipeline{
         stage('Send Email notifcation'){
             steps{
                 emailext(
-                     subject:"Notes  App Deployed Successfully on EC2 using Jenkins!!121323",
+                     subject:"Notes  App Deployed Successfully on EC2 using Jenkins!!",
                     body:"Your Note App is deployed! http://13.48.56.138:3000/",
                     to: "${EMAIL}"
                 )
