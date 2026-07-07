@@ -136,7 +136,9 @@ The project runs three Docker containers:
 
         
  1 Next.js App    Hosts the Notes Application 
- 2 MongoDB        Stores application data     
+ 
+ 2 MongoDB        Stores application data    
+ 
  3 Mongo Express  Web interface for MongoDB   
 
 
